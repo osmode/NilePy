@@ -3,6 +3,10 @@ and Reddit data from their respective APIs and populate MongoDB
 databases. Some of these scripts also format the entries and
 create histograms to count number of objects per minute. 
 
+For a demonstration of how to query the reddit API using Python
+check out Tankor Smash's blog: 
+blog.tankorsmash.com/?p=295
+
 Copyright (C) 2013 Omar N. Metwally (omarmetwally.quora.com)
 distribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
